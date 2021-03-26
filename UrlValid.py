@@ -3,7 +3,7 @@ import json,time
 
 def checkvt(Tester):
     data = {
-      'apikey': 'c058c032efb7be34fc8f130e8bcda4d12fe4d87a3f480993dfe37ff5f196cab7',
+      'apikey': '<VT API KEY>',
       'url': Tester
     }
     
